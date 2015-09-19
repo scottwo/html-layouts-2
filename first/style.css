@@ -1,0 +1,64 @@
+p {
+    margin-left: .5%;
+    margin-right: .5%;
+    font-family: sans-serif;
+    color: dimgrey;
+}
+
+.upper {
+    width: 32%;
+    height: 15%;
+    background-color: red;
+    display: inline-block;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.middle {
+    background-color: blue;
+}
+
+.red {
+    background-color: black;
+}
+
+.text {
+    height: 43%;
+    overflow: scroll;
+}
+
+.mid {
+    width: 36%;
+    height: 31%;
+    background-color: red;
+    display: inline-block;
+    margin-top: 2%;
+}
+
+.right2 {
+    background-color: blue;
+    width: 63%;
+}
+
+.lower {
+    background-color: blue;
+    width: 70%;
+    height: 7%;
+    display: inline-block;
+    margin-top: 2%;
+}
+
+.right3 {
+    background-color: red;
+    width: 29%;
+    margin-top: 0;
+}
+
+.lower > div {
+    background-color: black;
+    height: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
